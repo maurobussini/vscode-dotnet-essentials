@@ -1,0 +1,20 @@
+{
+    "name": "vscode-dotnet-essentials",
+    "displayName": ".NET Essentials",
+    "description": "Useful extensions for .NET development with Visual Studio Code",
+    "version": "0.0.1",
+    "repository": {
+        "type": "git", 
+        "url": "https://github.com/maurobussini/vscode-dotnet-essentials"
+    },
+    "engines": {
+        "vscode": "^1.37.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "ms-vscode.csharp",
+        "Leopotam.csharpfixformat"
+    ]
+}
